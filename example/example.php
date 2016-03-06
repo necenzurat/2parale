@@ -14,8 +14,8 @@ $commissions = $parale->call('commissions/listforaffiliate');
 
 /* Campaigns */
 $campaigns = $parale->call(
-	'campaigns/listforaffiliate',
-	array("page" => "1")
+    'campaigns/listforaffiliate',
+    array("page" => "1")
 );
 
 /* do some stuff with $campaigns; */
