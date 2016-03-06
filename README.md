@@ -3,8 +3,8 @@
 [![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/necenzurat/2parale/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/necenzurat/2parale/?branch=master)
 [![SensioLabsInsight](https://insight.sensiolabs.com/projects/e182fbe2-b12f-4529-9d3c-df97595d9ca5/mini.png)](https://insight.sensiolabs.com/projects/e182fbe2-b12f-4529-9d3c-df97595d9ca5)
 [![Latest Stable Version](https://poser.pugx.org/necenzurat/2parale/v/stable.svg)](https://packagist.org/packages/necenzurat/2parale) [![Total Downloads](https://poser.pugx.org/necenzurat/2parale/downloads.svg)](https://packagist.org/packages/necenzurat/2parale) 
-
 [![License](https://poser.pugx.org/necenzurat/2parale/license.svg)](https://packagist.org/packages/necenzurat/2parale)
+[![BADGINATOR](https://badginator.herokuapp.com/necenzurat/2parale.svg)](https://github.com/defunctzombie/badginator)
 
 Super-simple, minimum abstraction 2Parale API v. 0.1.0 wrapper.
 
