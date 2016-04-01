@@ -12,3 +12,5 @@ before_script:
   - composer install --prefer-source --no-interaction --dev
  
 script: phpunit
+notifications:
+  slack: SLACK_TOKEN
