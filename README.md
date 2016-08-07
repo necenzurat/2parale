@@ -1,3 +1,6 @@
+## :warning: Deprecated, please use [2parale/2performant](https://github.com/2Parale/2Performant-php/)!
+
+
 2parale SuperSimple API
 =======
 [![Build Status](https://travis-ci.org/necenzurat/2parale.svg?branch=master)](https://travis-ci.org/necenzurat/2parale)
